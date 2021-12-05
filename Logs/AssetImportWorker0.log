@@ -1852,3 +1852,27 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8139.944054 seconds.
+  path: Assets/Materials/New Render Texture.renderTexture
+  artifactKey: Guid(0ce775da95d0f488bbad79409cf02edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Render Texture.renderTexture using Guid(0ce775da95d0f488bbad79409cf02edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f77b939db90f3cda5754ae0188115303') in 2.131814 seconds 
+  Import took 2.345467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.783472 seconds.
+  path: Assets/Materials/Mirror.renderTexture
+  artifactKey: Guid(0ce775da95d0f488bbad79409cf02edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Mirror.renderTexture using Guid(0ce775da95d0f488bbad79409cf02edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3701e114bcfe690cffad96e71f30a785') in 0.020738 seconds 
+  Import took 0.026092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.204787 seconds.
+  path: Assets/Materials/Mirror Texture.renderTexture
+  artifactKey: Guid(0ce775da95d0f488bbad79409cf02edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Mirror Texture.renderTexture using Guid(0ce775da95d0f488bbad79409cf02edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462f72b8ab174b45a0d169986c72384f') in 0.015910 seconds 
+  Import took 0.022256 seconds .
+
