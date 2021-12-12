@@ -594,7 +594,6 @@ GameObject:
   - component: {fileID: 1012141733}
   - component: {fileID: 1012141732}
   - component: {fileID: 1012141736}
-  - component: {fileID: 1012141737}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -695,19 +694,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &1012141737
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1012141731}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39b2299f6ae7a4aa09f8392c88be66a8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mTarget: {fileID: 1921287260}
 --- !u!1 &1187795942
 GameObject:
   m_ObjectHideFlags: 0
@@ -1305,7 +1291,7 @@ GameObject:
   - component: {fileID: 1708985257}
   - component: {fileID: 1708985256}
   m_Layer: 0
-  m_Name: Miror (Camera) (1)
+  m_Name: Miror 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1343,7 +1329,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 787a31e1cbeb946aebbe00a15b400d41, type: 2}
+  - {fileID: 2100000, guid: 0f7e954b34a084d0aac67c0d8a0352b2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1479,11 +1465,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
---- !u!4 &1921287260 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
-  m_PrefabInstance: {fileID: 1818709971}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2023072347
 GameObject:
   m_ObjectHideFlags: 0
@@ -1708,7 +1689,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4c7c2291cf8f34b00baf556e94e51abd, type: 2}
+  - {fileID: 2100000, guid: a32f2353e05444e3f98ba230def439ef, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1766,7 +1747,7 @@ GameObject:
   - component: {fileID: 2408015778063018024}
   - component: {fileID: 2408015778063018031}
   m_Layer: 0
-  m_Name: Miror (Camera)
+  m_Name: Miror 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
