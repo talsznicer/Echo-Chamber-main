@@ -513,3 +513,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 678.090129 seconds.
+  path: Assets/_Scenes/Daniel_01.unity
+  artifactKey: Guid(695624aa276644e0d962449460fff39a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/Daniel_01.unity using Guid(695624aa276644e0d962449460fff39a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db22cbc8576b1aff56c7b61fc0587add') in 0.017616 seconds 
+  Import took 0.023383 seconds .
+
