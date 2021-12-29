@@ -818,3 +818,45 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1483.145414 seconds.
+  path: Assets/_Objects/Ripple Cookie.png
+  artifactKey: Guid(3daeebb72b99d44b7ab234b91cf381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Ripple Cookie.png using Guid(3daeebb72b99d44b7ab234b91cf381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: 'e850524a7e437ee75fa7b0ad7abfcdf8') in 1.770443 seconds 
+  Import took 1.831658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.272528 seconds.
+  path: Assets/_Objects/Ripple Cookie.png
+  artifactKey: Guid(3daeebb72b99d44b7ab234b91cf381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Ripple Cookie.png using Guid(3daeebb72b99d44b7ab234b91cf381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a293d488572023f9283a95fca49a9a5') in 0.193289 seconds 
+  Import took 0.207690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 259.846570 seconds.
+  path: Assets/_Objects/Ripple Cookie.png
+  artifactKey: Guid(3daeebb72b99d44b7ab234b91cf381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Ripple Cookie.png using Guid(3daeebb72b99d44b7ab234b91cf381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0933ffdf3ac72e9b403ee4c82a14c83') in 0.023822 seconds 
+  Import took 0.031225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.294465 seconds.
+  path: Assets/_Objects/Ripple Cookie.png
+  artifactKey: Guid(3daeebb72b99d44b7ab234b91cf381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Ripple Cookie.png using Guid(3daeebb72b99d44b7ab234b91cf381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72376f36a0e81466a831252a1313179e') in 0.038599 seconds 
+  Import took 0.045491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.306300 seconds.
+  path: Assets/_Objects/Ripple Cookie.png
+  artifactKey: Guid(3daeebb72b99d44b7ab234b91cf381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Ripple Cookie.png using Guid(3daeebb72b99d44b7ab234b91cf381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '81bd24bb5fd3dc81aacd58796a2101ed') in 0.038956 seconds 
+  Import took 0.046220 seconds .
+
