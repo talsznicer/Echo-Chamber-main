@@ -6285,7 +6285,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &305048838
 Transform:
   m_ObjectHideFlags: 0
@@ -9187,8 +9187,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 6.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 937703644}
-  m_RootOrder: 2
+  m_Father: {fileID: 613456064}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!108 &391425630
 Light:
@@ -11448,7 +11448,7 @@ GameObject:
   - component: {fileID: 504417322}
   - component: {fileID: 504417323}
   m_Layer: 0
-  m_Name: Engin Sound
+  m_Name: Engine Sound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14459,8 +14459,10 @@ Transform:
   - {fileID: 1662972779}
   - {fileID: 2069425352}
   - {fileID: 2144894109}
+  - {fileID: 776890581}
+  - {fileID: 391425629}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &613456065
 Animator:
@@ -18499,8 +18501,8 @@ Transform:
   - {fileID: 674726112}
   - {fileID: 359161219}
   - {fileID: 1652689089}
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_Father: {fileID: 613456064}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &777415224
 GameObject:
@@ -22605,7 +22607,6 @@ Transform:
   m_Children:
   - {fileID: 1307712090}
   - {fileID: 504417322}
-  - {fileID: 391425629}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
