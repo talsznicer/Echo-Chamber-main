@@ -1677,3 +1677,213 @@ AssetImportParameters requested are different than current active one (requested
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1053.388257 seconds.
+  path: Assets/_Animations/Scense/Opening/Opening.controller
+  artifactKey: Guid(d7c45f707a5754ba19174c08eb15cd6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Animations/Scense/Opening/Opening.controller using Guid(d7c45f707a5754ba19174c08eb15cd6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f422f181fdcab154a79847b30f83a7fa') in 0.573064 seconds 
+  Import took 0.584962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 448.168232 seconds.
+  path: Assets/_Videos/Covid Blue/2.mp4
+  artifactKey: Guid(a8f0982d2ce2c4452aabb6b6b49ec99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Videos/Covid Blue/2.mp4 using Guid(a8f0982d2ce2c4452aabb6b6b49ec99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da51d0fe75ef5f3ad54aed0495f0a95') in 0.013468 seconds 
+  Import took 0.019737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.657404 seconds.
+  path: Assets/_Videos/Covid Blue/2 COVID latest as US hospitalizations reach record high.mp4
+  artifactKey: Guid(b93d9559f59e84c64af8516fbb7753a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Videos/Covid Blue/2 COVID latest as US hospitalizations reach record high.mp4 using Guid(b93d9559f59e84c64af8516fbb7753a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30c8f91b641ff49d58ddbbf8ae23f6b') in 0.004282 seconds 
+  Import took 0.011558 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 25.73 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.45 ms.
+Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 234.7 MB.
+System memory in use after: 235.0 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2923.
+Total: 10.625348 ms (FindLiveObjects: 0.604733 ms CreateObjectMapping: 0.191169 ms MarkObjects: 9.751605 ms  DeleteObjects: 0.076748 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 56.53 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.49 ms.
+Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 234.7 MB.
+System memory in use after: 235.0 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2923.
+Total: 23.268186 ms (FindLiveObjects: 1.151007 ms CreateObjectMapping: 0.139607 ms MarkObjects: 21.349892 ms  DeleteObjects: 0.626449 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 39.40 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.33 ms.
+Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 234.7 MB.
+System memory in use after: 235.0 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2923.
+Total: 6.279296 ms (FindLiveObjects: 0.293273 ms CreateObjectMapping: 0.090072 ms MarkObjects: 5.398498 ms  DeleteObjects: 0.496598 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1838.767162 seconds.
+  path: Assets/_Objects/mesh.obj
+  artifactKey: Guid(8f17c245276d446a295044372e67e53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/mesh.obj using Guid(8f17c245276d446a295044372e67e53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28e22870b8febce970ee1bf36fbf03e6') in 0.573012 seconds 
+  Import took 0.598996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.751702 seconds.
+  path: Assets/_Materials/texture.jpg
+  artifactKey: Guid(7e78cc9a1a87a469eb400b7c11b0346b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/texture.jpg using Guid(7e78cc9a1a87a469eb400b7c11b0346b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '69d1b72568bf7db26cdfe2bfcc6d258d') in 1.525865 seconds 
+  Import took 1.535848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.375095 seconds.
+  path: Assets/_Objects/mesh.mtl
+  artifactKey: Guid(3527956bbbb524b4983d14d6c447d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/mesh.mtl using Guid(3527956bbbb524b4983d14d6c447d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae562e0ff4de67ea987852a90521b0b') in 0.164270 seconds 
+  Import took 0.175598 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 63.91 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.57 ms.
+Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.1 MB.
+System memory in use after: 264.4 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2926.
+Total: 23.636762 ms (FindLiveObjects: 1.284845 ms CreateObjectMapping: 0.180778 ms MarkObjects: 22.101066 ms  DeleteObjects: 0.069083 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 286.290692 seconds.
+  path: Assets/_Objects/texture.jpg
+  artifactKey: Guid(36342405ce46c49ed84ac6577587004c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/texture.jpg using Guid(36342405ce46c49ed84ac6577587004c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '8bbd1baab1fdf3e2615512ee3e0501a2') in 0.578567 seconds 
+  Import took 0.588416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.736581 seconds.
+  path: Assets/_Objects/New Folder
+  artifactKey: Guid(3975318c4a4cc453e899e57147884620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/New Folder using Guid(3975318c4a4cc453e899e57147884620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ec6c841489b0406d51c44576ab6a666') in 0.004059 seconds 
+  Import took 0.015842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.748208 seconds.
+  path: Assets/_Objects/Museum
+  artifactKey: Guid(3975318c4a4cc453e899e57147884620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Museum using Guid(3975318c4a4cc453e899e57147884620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc695d86c88af195f5c79df64c08edc5') in 0.003039 seconds 
+  Import took 0.014418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.637135 seconds.
+  path: Assets/_Objects/My room
+  artifactKey: Guid(5013b2809a473473d809c92b0db98c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/My room using Guid(5013b2809a473473d809c92b0db98c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f142bd0f75c8a708af8a3d7470baea') in 0.003560 seconds 
+  Import took 0.017459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.823110 seconds.
+  path: Assets/_Objects/My room/scaniverse-20220115-171117.obj
+  artifactKey: Guid(103a9828b4aa64c759557da807a2d135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/My room/scaniverse-20220115-171117.obj using Guid(103a9828b4aa64c759557da807a2d135) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '07f1b20b6c04f493ec304d38fb43a165') in 0.186623 seconds 
+  Import took 0.193878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.980392 seconds.
+  path: Assets/_Objects/My room/texture.jpg
+  artifactKey: Guid(d95a11a6d8adf493fbd7c134a58c0d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/My room/texture.jpg using Guid(d95a11a6d8adf493fbd7c134a58c0d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '4cee509adac2ca950b26b21d713a9528') in 0.079269 seconds 
+  Import took 0.084919 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 61.63 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.35 ms.
+Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.2 MB.
+System memory in use after: 264.4 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2927.
+Total: 7.234254 ms (FindLiveObjects: 0.537390 ms CreateObjectMapping: 0.193585 ms MarkObjects: 6.471318 ms  DeleteObjects: 0.030751 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
