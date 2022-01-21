@@ -631,3 +631,275 @@ AssetImportParameters requested are different than current active one (requested
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 20.46 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.53 ms.
+Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.2 MB.
+System memory in use after: 181.4 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2823.
+Total: 4.418352 ms (FindLiveObjects: 0.506901 ms CreateObjectMapping: 0.175015 ms MarkObjects: 3.703218 ms  DeleteObjects: 0.032195 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009290 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 97.80 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.44 ms.
+2022-01-21 17:35:01.186 Unity[8947:398760] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000209d490 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.021 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2023ms)
+		BeginReloadAssembly (220ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (18ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (117ms)
+		EndReloadAssembly (1724ms)
+			LoadAssemblies (286ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (570ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (564ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (98ms)
+				BeforeProcessingInitializeOnLoad (148ms)
+				ProcessInitializeOnLoadAttributes (295ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.35 ms.
+Unloading 2267 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 222.9 MB.
+System memory in use after: 223.1 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2834.
+Total: 3.487717 ms (FindLiveObjects: 0.380808 ms CreateObjectMapping: 0.119712 ms MarkObjects: 2.856051 ms  DeleteObjects: 0.130011 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 896.554165 seconds.
+  path: Assets/_Objects/Cloud points binary
+  artifactKey: Guid(7ffbd94ae3a604ef1871964cf728b0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Cloud points binary using Guid(7ffbd94ae3a604ef1871964cf728b0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493f057b46f87e0931b00ff4c32918ef') in 0.015699 seconds 
+  Import took 0.027863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.581042 seconds.
+  path: Assets/_Objects/Cloud points binary/ply 1.ply
+  artifactKey: Guid(409c0c7ee16814bc8820a0d960d3bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Cloud points binary/ply 1.ply using Guid(409c0c7ee16814bc8820a0d960d3bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: '216f081a1e7e2ee966e7a3fc8553ae29') in 1.875947 seconds 
+  Import took 1.892643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.416662 seconds.
+  path: Assets/_Objects/Cloud points binary/ply 1.ply
+  artifactKey: Guid(409c0c7ee16814bc8820a0d960d3bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Cloud points binary/ply 1.ply using Guid(409c0c7ee16814bc8820a0d960d3bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f68ae44e4424a9f2fc3e6f575a85e579') in 0.087643 seconds 
+  Import took 0.092338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.311966 seconds.
+  path: Assets/_Objects/Cloud points binary/ply 1.ply
+  artifactKey: Guid(409c0c7ee16814bc8820a0d960d3bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Cloud points binary/ply 1.ply using Guid(409c0c7ee16814bc8820a0d960d3bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd18f5de937241810ef3d290279149c') in 0.069980 seconds 
+  Import took 0.076863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.337007 seconds.
+  path: Assets/_Objects/Cloud points binary/ply 2.ply
+  artifactKey: Guid(e258e07a8bd63413cb24026724182949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Cloud points binary/ply 2.ply using Guid(e258e07a8bd63413cb24026724182949) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: '5507bc7f9573da4f9b9d1afaa0d99c3a') in 0.134263 seconds 
+  Import took 0.144475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.338120 seconds.
+  path: Assets/_Objects/Cloud points binary/ply 1.ply
+  artifactKey: Guid(409c0c7ee16814bc8820a0d960d3bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Cloud points binary/ply 1.ply using Guid(409c0c7ee16814bc8820a0d960d3bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040d4b44a170dc5c03df7a127f9e8808') in 0.051391 seconds 
+  Import took 0.056300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.122406 seconds.
+  path: Assets/_Objects/Cloud points binary/ply 1.ply
+  artifactKey: Guid(409c0c7ee16814bc8820a0d960d3bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Cloud points binary/ply 1.ply using Guid(409c0c7ee16814bc8820a0d960d3bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: 'fc4274afccb14cb009b1f0a05d00cd35') in 0.081332 seconds 
+  Import took 0.088690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.342230 seconds.
+  path: Assets/_Objects/Cloud points binary/ply 3.ply
+  artifactKey: Guid(eef12a83db6bd4fa99d36ae764c5ef51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/Cloud points binary/ply 3.ply using Guid(eef12a83db6bd4fa99d36ae764c5ef51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: '4a6e7e95b73cb79ba1264969a88b0718') in 0.190736 seconds 
+  Import took 0.202644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5447.617387 seconds.
+  path: Assets/_Sounds/Covid
+  artifactKey: Guid(a05e97debc87041b2af7f4631824fe5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sounds/Covid using Guid(a05e97debc87041b2af7f4631824fe5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed63865352accf48146c792e032f889a') in 0.007439 seconds 
+  Import took 0.062837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.458977 seconds.
+  path: Assets/_Sounds/Covid/1.m4a
+  artifactKey: Guid(cdeb019b1e10b4dbaa59f6592c50f09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sounds/Covid/1.m4a using Guid(cdeb019b1e10b4dbaa59f6592c50f09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd34d029e606214354c01344560731c') in 0.164473 seconds 
+  Import took 0.180038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 252.383906 seconds.
+  path: Assets/_Sounds/Covid/3.m4a
+  artifactKey: Guid(8865595cde0c04b73b76ad0175a9da26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sounds/Covid/3.m4a using Guid(8865595cde0c04b73b76ad0175a9da26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10426fbf3c6596a2db7d0f858c9c78be') in 0.027249 seconds 
+  Import took 0.037704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.846290 seconds.
+  path: Assets/_Sounds/Covid/1.mp3
+  artifactKey: Guid(7b2e5a2d97d9743b1a32f0a50ff9059d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sounds/Covid/1.mp3 using Guid(7b2e5a2d97d9743b1a32f0a50ff9059d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50152c2a2e4c8e61ac9ec59349842ac9') in 2.283733 seconds 
+  Import took 2.327422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.498744 seconds.
+  path: Assets/_Sounds/Covid/3.mp3
+  artifactKey: Guid(6dc7cfdede66b49ee8dff0034f5787d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Sounds/Covid/3.mp3 using Guid(6dc7cfdede66b49ee8dff0034f5787d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f8f64f1b6737c9a740b2e25895b718') in 0.050989 seconds 
+  Import took 0.056687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 313.345715 seconds.
+  path: Assets/_Animations/Scense/Sceene 2/Covid intro.anim
+  artifactKey: Guid(2c70aca8bc0bf4ea4b280319008c2ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Animations/Scense/Sceene 2/Covid intro.anim using Guid(2c70aca8bc0bf4ea4b280319008c2ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '201b3a98fa82aa66378247740e348218') in 1.196052 seconds 
+  Import took 1.205040 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011520 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.39 ms.
+2022-01-21 19:24:43.203 Unity[8947:398760] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000208a4c0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.212 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2214ms)
+		BeginReloadAssembly (468ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (362ms)
+		EndReloadAssembly (1671ms)
+			LoadAssemblies (362ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (658ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (401ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (127ms)
+				ProcessInitializeOnLoadAttributes (250ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.44 ms.
+Unloading 2267 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 240.9 MB.
+System memory in use after: 241.1 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2851.
+Total: 3.341034 ms (FindLiveObjects: 0.465744 ms CreateObjectMapping: 0.129574 ms MarkObjects: 2.639079 ms  DeleteObjects: 0.105532 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9.705272 seconds.
+  path: Assets/_Animations/Scense/Sceene 2/Covid intro.anim
+  artifactKey: Guid(2c70aca8bc0bf4ea4b280319008c2ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Animations/Scense/Sceene 2/Covid intro.anim using Guid(2c70aca8bc0bf4ea4b280319008c2ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe4f0324a4ff73ee04da66498ad6aad') in 0.014766 seconds 
+  Import took 0.018614 seconds .
+
