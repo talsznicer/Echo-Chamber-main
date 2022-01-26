@@ -553,3 +553,20 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1280.062985 seconds.
+  path: Assets/_Objects/obj/2022-01-24-15-47-03_mesh
+  artifactKey: Guid(10f5da54b77a74db095984c7b81e8ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/obj/2022-01-24-15-47-03_mesh using Guid(10f5da54b77a74db095984c7b81e8ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6f6b830433beb60fb4711d0a49a3e7') in 0.010733 seconds 
+  Import took 0.020890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.657991 seconds.
+  path: Assets/_Objects/obj/2022-01-24-15-47-03_mesh/mesh.obj
+  artifactKey: Guid(d73bccf269ee64588b123f84c2ca471d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/obj/2022-01-24-15-47-03_mesh/mesh.obj using Guid(d73bccf269ee64588b123f84c2ca471d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '356b1dd28ba25c683371439e55835915') in 2.063146 seconds 
+  Import took 2.083614 seconds .
+
