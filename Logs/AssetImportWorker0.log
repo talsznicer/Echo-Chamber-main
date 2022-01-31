@@ -549,3 +549,51 @@ Start importing Assets/_Objects/obj/Train/Train.obj using Guid(0796424de784f4a80
  -> (artifact id: '58c79938fae7ad10073ae45a5235552d') in 0.225887 seconds 
   Import took 0.245132 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1990.369349 seconds.
+  path: Assets/_Content/Room 3
+  artifactKey: Guid(b681b2d21a4b74ee9ba5e0da7f030fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3 using Guid(b681b2d21a4b74ee9ba5e0da7f030fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eb338a6f24aa1a79dcbbd0d19c879d2') in 0.016429 seconds 
+  Import took 0.041547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.143721 seconds.
+  path: Assets/_Content/Room 3/Edited - Intollerance_Towards_the_unvacced.mov
+  artifactKey: Guid(8268677a36353469caf2aba7aad6c85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - Intollerance_Towards_the_unvacced.mov using Guid(8268677a36353469caf2aba7aad6c85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05aed805e0fc03a17ea980ac63901f2') in 1.225187 seconds 
+  Import took 1.236533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/_Content/Room 3/Edited - MAGA_Mask_Liberals_R_Better_Than_U.mov
+  artifactKey: Guid(4eef6e673b78c43ea90423cf7f2c6a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - MAGA_Mask_Liberals_R_Better_Than_U.mov using Guid(4eef6e673b78c43ea90423cf7f2c6a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72fde0982bb92f87efe900cb0167a3e1') in 0.006562 seconds 
+  Import took 0.012309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.764171 seconds.
+  path: Assets/_Content/Room 3/Edited - 11th Hour Dispatch.mp4
+  artifactKey: Guid(3ab7a5a053af9419eb60e4ea16be2b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - 11th Hour Dispatch.mp4 using Guid(3ab7a5a053af9419eb60e4ea16be2b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eecd71070bcf044d500e9681a7f6d6a') in 0.763223 seconds 
+  Import took 0.778364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 452.573592 seconds.
+  path: Assets/_Content/Room 3/Edited - Don't get vaccinated.mp4
+  artifactKey: Guid(19d2422e8ef6a4786b5e4931bdbfe4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - Don't get vaccinated.mp4 using Guid(19d2422e8ef6a4786b5e4931bdbfe4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '548f268bcae88a90af232673addf88b0') in 0.039032 seconds 
+  Import took 0.078750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1999.863299 seconds.
+  path: Assets/_Content/Room 3/Edited - 25%Off_Sale.mov
+  artifactKey: Guid(94f5e5954d6024cb2bba0f3e46481ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - 25%Off_Sale.mov using Guid(94f5e5954d6024cb2bba0f3e46481ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86cf1048476c1b66272762648306e560') in 0.032924 seconds 
+  Import took 0.089131 seconds .
+
