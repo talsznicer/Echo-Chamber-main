@@ -3916,7 +3916,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 138969927}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: faac633c316c54368af28789255c060a, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 7da2c414c57664fdfa27497726e9fe92, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -26005,14 +26005,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1085915208}
-  m_LocalRotation: {x: -0, y: 0.6722511, z: -0, w: -0.7403233}
-  m_LocalPosition: {x: -1.8785298, y: 0.916, z: 1.7217453}
+  m_LocalRotation: {x: -0, y: 0.9965784, z: -0, w: 0.08265313}
+  m_LocalPosition: {x: -1.027, y: 0.916, z: 0.983}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2139254637}
   m_Father: {fileID: 2120993142}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 275.518, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 170.518, z: 0}
 --- !u!1 &1089940688
 GameObject:
   m_ObjectHideFlags: 0
@@ -38778,7 +38778,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1698255949}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: faac633c316c54368af28789255c060a, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 7da2c414c57664fdfa27497726e9fe92, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -49233,6 +49233,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2120993142}
+  - component: {fileID: 2120993143}
   m_Layer: 0
   m_Name: 4 Content
   m_TagString: Untagged
@@ -49258,6 +49259,25 @@ Transform:
   m_Father: {fileID: 75729236}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &2120993143
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2120993141}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3f22b544d5f8549b8b793b58057f374e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2133285365
 GameObject:
   m_ObjectHideFlags: 0
