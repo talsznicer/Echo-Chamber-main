@@ -3581,7 +3581,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &131099978
 Transform:
   m_ObjectHideFlags: 0
@@ -10510,7 +10510,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &435715558
 Transform:
   m_ObjectHideFlags: 0
@@ -15086,7 +15086,7 @@ Transform:
   - {fileID: 2144894109}
   - {fileID: 305048838}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &613456065
 Animator:
@@ -27173,7 +27173,7 @@ Transform:
   - {fileID: 1341283639}
   - {fileID: 1817385721}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1250152323
 GameObject:
@@ -29122,7 +29122,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0796424de784f4a80a21d02d9004c7b9, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1151388028547126963, guid: 0796424de784f4a80a21d02d9004c7b9, type: 3}
       propertyPath: m_LocalRotation.w
