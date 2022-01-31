@@ -711,7 +711,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 20341382}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 4eef6e673b78c43ea90423cf7f2c6a3f, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 9fbda43eadfb74d9a8823161f0f8f19e, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -2755,7 +2755,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1846561587}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &93763448
 GameObject:
@@ -4988,7 +4988,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 168420976}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 94f5e5954d6024cb2bba0f3e46481ac1, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 3c6ef598716cd4e16bdbebb362c6e7cb, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -6511,8 +6511,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 280091590}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 40.094303, y: 28.887775, z: -78.10125}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1081193532}
@@ -6520,8 +6520,9 @@ Transform:
   - {fileID: 546993949}
   - {fileID: 416253759}
   - {fileID: 1846561587}
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  - {fileID: 1244432662}
+  m_Father: {fileID: 2038974246}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &282565366
 GameObject:
@@ -8751,8 +8752,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 364221662}
-  m_LocalRotation: {x: -0, y: -0.10869123, z: -0, w: -0.9940756}
-  m_LocalPosition: {x: 2.144, y: 0.26, z: 1.386}
+  m_LocalRotation: {x: -0, y: 0.9262106, z: -0, w: -0.37700662}
+  m_LocalPosition: {x: -0.838, y: -0.062, z: -0.428}
   m_LocalScale: {x: 0.2500001, y: 0.30998445, z: 0.3099846}
   m_Children:
   - {fileID: 550223141}
@@ -8761,7 +8762,7 @@ Transform:
   - {fileID: 1939992043}
   m_Father: {fileID: 699994590}
   m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: -347.52, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -495.703, z: 0}
 --- !u!328 &364221664
 VideoPlayer:
   m_ObjectHideFlags: 0
@@ -10510,7 +10511,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &435715558
 Transform:
   m_ObjectHideFlags: 0
@@ -10526,8 +10527,8 @@ Transform:
   - {fileID: 600431256}
   - {fileID: 220592257}
   - {fileID: 1381095696}
-  m_Father: {fileID: 1846561587}
-  m_RootOrder: 1
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: -44.516, z: 0}
 --- !u!95 &435715559
 Animator:
@@ -12822,7 +12823,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 550223140}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 94f5e5954d6024cb2bba0f3e46481ac1, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: dac997815a04249e4a41c977b6f3759e, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -15076,8 +15077,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 613456063}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 40.094303, y: 28.887775, z: -78.10125}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 776890581}
@@ -15085,8 +15086,8 @@ Transform:
   - {fileID: 2069425352}
   - {fileID: 2144894109}
   - {fileID: 305048838}
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_Father: {fileID: 2038974246}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &613456065
 Animator:
@@ -19220,7 +19221,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 796519939}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 8268677a36353469caf2aba7aad6c85c, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: ec556f7dd03b64eaf812757c3d37535e, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -22906,7 +22907,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1004595952}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 94f5e5954d6024cb2bba0f3e46481ac1, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 3ab7a5a053af9419eb60e4ea16be2b84, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -23578,7 +23579,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1040084967}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 94f5e5954d6024cb2bba0f3e46481ac1, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 3c6ef598716cd4e16bdbebb362c6e7cb, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -25310,7 +25311,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1846561587}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1121252509
 GameObject:
@@ -27157,7 +27158,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1244432662
 Transform:
   m_ObjectHideFlags: 0
@@ -27166,13 +27167,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1244432661}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 3.597, y: 0, z: -0.175}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 699994590}
   - {fileID: 1341283639}
   - {fileID: 1817385721}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 280091591}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1250152323
@@ -28941,7 +28942,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1333382735}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 94f5e5954d6024cb2bba0f3e46481ac1, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: dac997815a04249e4a41c977b6f3759e, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -31272,7 +31273,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1433300392}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 94f5e5954d6024cb2bba0f3e46481ac1, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 3ab7a5a053af9419eb60e4ea16be2b84, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -31783,7 +31784,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1460617398}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 8268677a36353469caf2aba7aad6c85c, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: ec556f7dd03b64eaf812757c3d37535e, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -40034,7 +40035,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 131099978}
-  - {fileID: 435715558}
   - {fileID: 75729236}
   - {fileID: 1115490658}
   m_Father: {fileID: 280091591}
@@ -43230,7 +43230,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1967417648}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 4eef6e673b78c43ea90423cf7f2c6a3f, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 9fbda43eadfb74d9a8823161f0f8f19e, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -44448,6 +44448,8 @@ Transform:
   m_Children:
   - {fileID: 1493868365}
   - {fileID: 2107165430}
+  - {fileID: 613456064}
+  - {fileID: 280091591}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -44913,7 +44915,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2060058048
 Transform:
   m_ObjectHideFlags: 0

@@ -1375,3 +1375,214 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 26.77 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.42 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.1 MB.
+System memory in use after: 221.3 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2909.
+Total: 31.579211 ms (FindLiveObjects: 1.036663 ms CreateObjectMapping: 0.124722 ms MarkObjects: 26.745391 ms  DeleteObjects: 3.671216 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014540 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.47 ms.
+2022-01-31 19:08:38.705 Unity[4844:243522] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000010e140 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.705 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1709ms)
+		BeginReloadAssembly (312ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (22ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (162ms)
+		EndReloadAssembly (1317ms)
+			LoadAssemblies (336ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (406ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (371ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (108ms)
+				ProcessInitializeOnLoadAttributes (241ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.41 ms.
+Unloading 2266 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 261.6 MB.
+System memory in use after: 261.8 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2912.
+Total: 3.695620 ms (FindLiveObjects: 0.415687 ms CreateObjectMapping: 0.124079 ms MarkObjects: 3.075245 ms  DeleteObjects: 0.079398 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 33.61 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.50 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.3 MB.
+System memory in use after: 221.5 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2912.
+Total: 5.704678 ms (FindLiveObjects: 0.445542 ms CreateObjectMapping: 0.141879 ms MarkObjects: 4.998563 ms  DeleteObjects: 0.117821 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 21.47 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.38 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.3 MB.
+System memory in use after: 221.5 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2912.
+Total: 20.851542 ms (FindLiveObjects: 0.970431 ms CreateObjectMapping: 0.151937 ms MarkObjects: 19.558779 ms  DeleteObjects: 0.169454 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8909.372216 seconds.
+  path: Assets/_Content/Room 3/Edited - Mass Information Psychosis.mov
+  artifactKey: Guid(742aefa4687fe4ef3a16b653b888145c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - Mass Information Psychosis.mov using Guid(742aefa4687fe4ef3a16b653b888145c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13d3275a86163242db81da6fbbdc71ce') in 0.178794 seconds 
+  Import took 0.231507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 196.105409 seconds.
+  path: Assets/_Content/Room 3/Edited - Intollerance_Towards_the_unvacced.mp4
+  artifactKey: Guid(ec556f7dd03b64eaf812757c3d37535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - Intollerance_Towards_the_unvacced.mp4 using Guid(ec556f7dd03b64eaf812757c3d37535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32e3d84144e95b10ea8b55d50bed296') in 0.245573 seconds 
+  Import took 0.257348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.894952 seconds.
+  path: Assets/_Content/Room 3/Edited - Mass Information Psychosis.mp4
+  artifactKey: Guid(dac997815a04249e4a41c977b6f3759e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - Mass Information Psychosis.mp4 using Guid(dac997815a04249e4a41c977b6f3759e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7f8db2ac614c3bdf537fd974714a8b') in 0.003644 seconds 
+  Import took 0.019027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.045690 seconds.
+  path: Assets/_Content/Room 3/Edited - MAGA_Mask_Liberals_R_Better_Than_U.mp4
+  artifactKey: Guid(9fbda43eadfb74d9a8823161f0f8f19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - MAGA_Mask_Liberals_R_Better_Than_U.mp4 using Guid(9fbda43eadfb74d9a8823161f0f8f19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab96e8629296741a07676bf0f5e3a88') in 0.004165 seconds 
+  Import took 0.009848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.802839 seconds.
+  path: Assets/_Content/Room 3/Edited - 25%Off_Sale.mp4
+  artifactKey: Guid(3c6ef598716cd4e16bdbebb362c6e7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - 25%Off_Sale.mp4 using Guid(3c6ef598716cd4e16bdbebb362c6e7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3127a50a91d199236bcdfdc8ef0f6256') in 0.003768 seconds 
+  Import took 0.010271 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 69.69 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 1.54 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.4 MB.
+System memory in use after: 221.6 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2912.
+Total: 31.571042 ms (FindLiveObjects: 1.347875 ms CreateObjectMapping: 0.161199 ms MarkObjects: 29.834855 ms  DeleteObjects: 0.225534 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 34.37 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 1.27 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.4 MB.
+System memory in use after: 221.6 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2912.
+Total: 34.431888 ms (FindLiveObjects: 1.412812 ms CreateObjectMapping: 0.201035 ms MarkObjects: 32.563256 ms  DeleteObjects: 0.253389 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
