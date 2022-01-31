@@ -553,3 +553,65 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 20.37 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.41 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.0 MB.
+System memory in use after: 180.2 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2830.
+Total: 22.162999 ms (FindLiveObjects: 0.619613 ms CreateObjectMapping: 0.105083 ms MarkObjects: 21.237293 ms  DeleteObjects: 0.199828 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3525.191856 seconds.
+  path: Assets/_Content/Room 4
+  artifactKey: Guid(07e542c4e90a04682ad06bd05f4552af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 4 using Guid(07e542c4e90a04682ad06bd05f4552af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52877acc16b5c19e255f5e10cc163ef') in 0.024741 seconds 
+  Import took 0.162716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.942073 seconds.
+  path: Assets/_Content/Room 4/Telegraf_News_Camera_Team_Attackt_on_Anti_covid_protest_in_Bruxelles.mp4
+  artifactKey: Guid(faac633c316c54368af28789255c060a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 4/Telegraf_News_Camera_Team_Attackt_on_Anti_covid_protest_in_Bruxelles.mp4 using Guid(faac633c316c54368af28789255c060a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd330d2d75cebedb741dc5c2d3977927') in 1.026002 seconds 
+  Import took 1.036888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.694085 seconds.
+  path: Assets/_Content/Room 4/BBC News on Omicron.mp4
+  artifactKey: Guid(297e526cf10864a6d8933912b175bd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 4/BBC News on Omicron.mp4 using Guid(297e526cf10864a6d8933912b175bd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115fe8efccfa828a222b8263b1540759') in 0.004556 seconds 
+  Import took 0.011108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 327.259738 seconds.
+  path: Assets/_Content/Room 4/Official_Covid_Vaccine_Information.mp4
+  artifactKey: Guid(ceee34a995b74414eb6256ad0f173787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 4/Official_Covid_Vaccine_Information.mp4 using Guid(ceee34a995b74414eb6256ad0f173787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1cc35cf7e1cc5cf1870a5588e87956') in 0.005500 seconds 
+  Import took 0.023791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 267.805859 seconds.
+  path: Assets/_Content/Room 4/Visualizing 15000 Deaths BBC.mp4
+  artifactKey: Guid(7da2c414c57664fdfa27497726e9fe92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 4/Visualizing 15000 Deaths BBC.mp4 using Guid(7da2c414c57664fdfa27497726e9fe92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6275a7822fbf4f5d5806bfe63f91877d') in 0.003589 seconds 
+  Import took 0.010214 seconds .
+
