@@ -676,3 +676,33 @@ AssetImportParameters requested are different than current active one (requested
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1101.055338 seconds.
+  path: Assets/_Objects/ply/_Daniels Room Binary.ply
+  artifactKey: Guid(7b83cf78d93b04731b9f3732b9bc2556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/ply/_Daniels Room Binary.ply using Guid(7b83cf78d93b04731b9f3732b9bc2556) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: '1acf1f782433681745c4b63d683c7087') in 2.299042 seconds 
+  Import took 2.313497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 542.631478 seconds.
+  path: Assets/_Objects/ply/_Livingroom Binary.ply
+  artifactKey: Guid(8470ba458f7404ed1bee68f14880fbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/ply/_Livingroom Binary.ply using Guid(8470ba458f7404ed1bee68f14880fbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: '78c7c5bcbb2c9c9ec664bf49d4fba59e') in 0.175516 seconds 
+  Import took 0.213901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 192.270195 seconds.
+  path: Assets/_Objects/ply/_Professor Binary.ply
+  artifactKey: Guid(5cb78b4c7a106465f98ce1c76feb1f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/ply/_Professor Binary.ply using Guid(5cb78b4c7a106465f98ce1c76feb1f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: '48c35a2ed95bf0b430bb4d7d602a89dd') in 0.108371 seconds 
+  Import took 0.118810 seconds .
+
