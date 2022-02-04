@@ -795,3 +795,103 @@ Start importing Assets/_Objects/obj/_Kitchen/texture.jpg using Guid(259565cb5707
  -> (artifact id: '319a75992352f052d0cd06bfbef47ce0') in 1.904027 seconds 
   Import took 1.941787 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 535.902167 seconds.
+  path: Assets/_Objects/obj/_Kitchen/texture 1.jpg
+  artifactKey: Guid(b1ea85f7da278494f9c5bf08111ddffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/obj/_Kitchen/texture 1.jpg using Guid(b1ea85f7da278494f9c5bf08111ddffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '0cf76347639e8b33f1cf94e0e2d11e97') in 0.250082 seconds 
+  Import took 0.257861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.635482 seconds.
+  path: Assets/_Objects/obj/_Kitchen/texture.jpg
+  artifactKey: Guid(b1ea85f7da278494f9c5bf08111ddffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/obj/_Kitchen/texture.jpg using Guid(b1ea85f7da278494f9c5bf08111ddffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '325839e7047a2be9651d474969b01dc9') in 0.210438 seconds 
+  Import took 0.216115 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 30.56 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.70 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 217.9 MB.
+System memory in use after: 218.1 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2883.
+Total: 50.070927 ms (FindLiveObjects: 0.424805 ms CreateObjectMapping: 0.133742 ms MarkObjects: 49.361705 ms  DeleteObjects: 0.149681 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 392.780183 seconds.
+  path: Assets/_Objects/obj/_Kitchen/texture_original.jpg
+  artifactKey: Guid(a7e8603c017c8451e9e02d275040ade8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/obj/_Kitchen/texture_original.jpg using Guid(a7e8603c017c8451e9e02d275040ade8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '3a9a32044977493706f0dc81d945687b') in 0.253771 seconds 
+  Import took 0.262957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.602465 seconds.
+  path: Assets/_Objects/obj/_Kitchen/texture.jpg
+  artifactKey: Guid(a7e8603c017c8451e9e02d275040ade8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/obj/_Kitchen/texture.jpg using Guid(a7e8603c017c8451e9e02d275040ade8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '7ae241186ae1354e462a8bd94fd49aeb') in 0.218601 seconds 
+  Import took 0.224793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4275.758132 seconds.
+  path: Assets/_Objects/ply/_Daniels Room Binary - Floor.ply
+  artifactKey: Guid(f9df1d538064c42939474ac46fe534fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/ply/_Daniels Room Binary - Floor.ply using Guid(f9df1d538064c42939474ac46fe534fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: '23380cf00a0cddac9534c1d3dc8fd176') in 0.313860 seconds 
+  Import took 0.395117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 376.432206 seconds.
+  path: Assets/Pcx/Runtime/Shaders/Point_Colour.shader
+  artifactKey: Guid(8fdc550f5f487496e8052eb0574a41fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pcx/Runtime/Shaders/Point_Colour.shader using Guid(8fdc550f5f487496e8052eb0574a41fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f037e89021d5d9643a2c7bd772ec0a8f') in 1.527389 seconds 
+  Import took 1.538242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.981261 seconds.
+  path: Assets/Pcx/Editor/PointCloudDataInspector.cs
+  artifactKey: Guid(8411b5e94234b27449f0b9ee5c00708d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pcx/Editor/PointCloudDataInspector.cs using Guid(8411b5e94234b27449f0b9ee5c00708d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1787b3c452a3da8cd7f6f6ce3b353f6b') in 0.440911 seconds 
+  Import took 0.449970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.249642 seconds.
+  path: Assets/Pcx/Editor/PointCloudRendererInspector.cs
+  artifactKey: Guid(a237af582c9918148baae596f2936958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pcx/Editor/PointCloudRendererInspector.cs using Guid(a237af582c9918148baae596f2936958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9378cae0ce1e58d556e50b52c28e3273') in 0.005613 seconds 
+  Import took 0.019995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.740794 seconds.
+  path: Assets/Pcx/Runtime/BakedPointCloud.cs
+  artifactKey: Guid(7e24966311c3a42b880056b5d15db86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pcx/Runtime/BakedPointCloud.cs using Guid(7e24966311c3a42b880056b5d15db86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a64fc8e40a308f48f5b19dc4ee56a6') in 0.007106 seconds 
+  Import took 0.013196 seconds .
+
