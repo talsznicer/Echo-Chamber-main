@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Default Point
   m_Shader: {fileID: 4800000, guid: 8fdc550f5f487496e8052eb0574a41fe, type: 3}
-  m_ShaderKeywords: _DISTANCE_ON
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Distance: 1
+    - _Distance: 0
     - _PointSize: 0.00001
     m_Colors:
     - _Tint: {r: 1, g: 1, b: 1, a: 1}
