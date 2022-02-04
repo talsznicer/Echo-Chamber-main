@@ -5,8 +5,8 @@ using UnityEngine;
 public class TriggerStuff : MonoBehaviour
 {
     // Here I created public GameObject slots you can use to drag and drop objects from the Hierarchy
-    public GameObject object1;
-    public GameObject object2;
+    public GameObject objectOn;
+    public GameObject objectOff;
     //public GameObject object3;
 
 
@@ -15,8 +15,8 @@ public class TriggerStuff : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            object1.SetActive(true);
-            object2.SetActive(false);
+            objectOn.SetActive(true);
+            objectOff.SetActive(false);
             //object3.SetActive(true);
         }
     }
@@ -27,8 +27,8 @@ public class TriggerStuff : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            object1.SetActive(false);
-            object2.SetActive(true);
+            objectOn.SetActive(false);
+            objectOff.SetActive(true);
             //object3.SetActive(false);
         }
     }
