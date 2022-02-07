@@ -1122,3 +1122,110 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 80.19 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.55 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.8 MB.
+System memory in use after: 190.0 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2864.
+Total: 41.856187 ms (FindLiveObjects: 0.832544 ms CreateObjectMapping: 0.121715 ms MarkObjects: 40.738386 ms  DeleteObjects: 0.162310 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 28.10 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.71 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.8 MB.
+System memory in use after: 190.0 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2864.
+Total: 4.354844 ms (FindLiveObjects: 0.536673 ms CreateObjectMapping: 0.181599 ms MarkObjects: 3.492837 ms  DeleteObjects: 0.142305 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5700.309748 seconds.
+  path: Assets/_Textures/Grid blue.png
+  artifactKey: Guid(2b0e50143a45641e59bbda59b1bd573d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Textures/Grid blue.png using Guid(2b0e50143a45641e59bbda59b1bd573d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '833cd3b208342a059c7f7e44e6ab389d') in 1.900107 seconds 
+  Import took 1.960310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 564.003461 seconds.
+  path: Assets/_Textures/Grid red.png
+  artifactKey: Guid(623823798ea7e44a9aafc64d39deb4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Textures/Grid red.png using Guid(623823798ea7e44a9aafc64d39deb4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: 'c4050fcdab8b1eeebd70af133a3c0ff2') in 0.059934 seconds 
+  Import took 0.067475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.931732 seconds.
+  path: Assets/_Textures/Grid red.png
+  artifactKey: Guid(623823798ea7e44a9aafc64d39deb4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Textures/Grid red.png using Guid(623823798ea7e44a9aafc64d39deb4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: 'b0bafc4a12a40a6016b6c8cefc9aa7cc') in 0.034658 seconds 
+  Import took 0.045291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.292763 seconds.
+  path: Assets/_Textures/Grid.png
+  artifactKey: Guid(682f1cc76acb142938626798c371338b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Textures/Grid.png using Guid(682f1cc76acb142938626798c371338b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '82cdc24cf4cdd853c3e373d851328674') in 0.047673 seconds 
+  Import took 0.054205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.298632 seconds.
+  path: Assets/_Textures/Grid red 1.png
+  artifactKey: Guid(f7d2795eb18da4626b30e4e0dbdba03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Textures/Grid red 1.png using Guid(f7d2795eb18da4626b30e4e0dbdba03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '0856362d8814527819926dfebf0331f7') in 0.045100 seconds 
+  Import took 0.055691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.881634 seconds.
+  path: Assets/_Textures/Grid red 1.png
+  artifactKey: Guid(f7d2795eb18da4626b30e4e0dbdba03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Textures/Grid red 1.png using Guid(f7d2795eb18da4626b30e4e0dbdba03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'ce1902472cb710b39bbf1e49a2c6f56e') in 0.055241 seconds 
+  Import took 0.063465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 971.758837 seconds.
+  path: Assets/_Textures/Grid red.png
+  artifactKey: Guid(623823798ea7e44a9aafc64d39deb4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Textures/Grid red.png using Guid(623823798ea7e44a9aafc64d39deb4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '4920ee59997ad4a41bfd2d06d58926fb') in 0.058334 seconds 
+  Import took 0.067745 seconds .
+
