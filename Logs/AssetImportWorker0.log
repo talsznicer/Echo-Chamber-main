@@ -1991,3 +1991,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1522.054697 seconds.
+  path: Assets/_Objects/obj/_Kitchen/texture.jpg
+  artifactKey: Guid(a7e8603c017c8451e9e02d275040ade8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/obj/_Kitchen/texture.jpg using Guid(a7e8603c017c8451e9e02d275040ade8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '498ad4dc720074bbb902c63b4f1b9103') in 2.841863 seconds 
+  Import took 3.189210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 262.129612 seconds.
+  path: Assets/_Objects/obj/_Daniel's Room/texture.jpg
+  artifactKey: Guid(098a0c388470d48ab9a89ab6e31c2bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/obj/_Daniel's Room/texture.jpg using Guid(098a0c388470d48ab9a89ab6e31c2bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '3739fd6b7905f6c78308e843bedf9586') in 2.341008 seconds 
+  Import took 2.355739 seconds .
+
