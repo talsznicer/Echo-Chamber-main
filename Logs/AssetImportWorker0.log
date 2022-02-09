@@ -2009,3 +2009,550 @@ Start importing Assets/_Objects/obj/_Daniel's Room/texture.jpg using Guid(098a0c
  -> (artifact id: '3739fd6b7905f6c78308e843bedf9586') in 2.341008 seconds 
   Import took 2.355739 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 137.803653 seconds.
+  path: Assets/_Content/Room 1/CBR/Edited - lockdown_bananabread_CBR.mp4
+  artifactKey: Guid(d42d57f14f7bd4ebeb765c89bae72b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 1/CBR/Edited - lockdown_bananabread_CBR.mp4 using Guid(d42d57f14f7bd4ebeb765c89bae72b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356615cdf263846052e4a5d7a238cd47') in 0.035356 seconds 
+  Import took 0.043791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.551677 seconds.
+  path: Assets/_Content/Room 1/CBR/Edited - 134709990_1345185922503289_804827751372129946_n-CBR.mp4
+  artifactKey: Guid(9a18b56f9a23f4c78a08589a58fc7da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 1/CBR/Edited - 134709990_1345185922503289_804827751372129946_n-CBR.mp4 using Guid(9a18b56f9a23f4c78a08589a58fc7da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6fc390fdde22a0ccf6dce9571b745b') in 0.031593 seconds 
+  Import took 0.040048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.003026 seconds.
+  path: Assets/_Content/Room 1/CBR/Edited - MedicalRape_CBR.mp4
+  artifactKey: Guid(2c8a7eaeb459949acbf87da15b0f6013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 1/CBR/Edited - MedicalRape_CBR.mp4 using Guid(2c8a7eaeb459949acbf87da15b0f6013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e9259433103846d50523836cf5fa5dc') in 0.005139 seconds 
+  Import took 0.022255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.994064 seconds.
+  path: Assets/_Content/Room 1/CBR/Edited - Snaptik_7050174853898620207_erica-CBR.mp4
+  artifactKey: Guid(f0ebb25bdacc5492f85300c15b365dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 1/CBR/Edited - Snaptik_7050174853898620207_erica-CBR.mp4 using Guid(f0ebb25bdacc5492f85300c15b365dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e2a27a94a3d706ae46119e19bc977ca') in 0.004790 seconds 
+  Import took 0.013709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 219.263337 seconds.
+  path: Assets/_Content/Room 2/CBR/Edited - 272208444_116735260880231_3117976657214523825_n_1_CBR.mp4
+  artifactKey: Guid(da7ed6efb84964b2f8f9a0a5ad5e822a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 2/CBR/Edited - 272208444_116735260880231_3117976657214523825_n_1_CBR.mp4 using Guid(da7ed6efb84964b2f8f9a0a5ad5e822a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cba9f486c118ca49b4946969e2d15819') in 0.019775 seconds 
+  Import took 0.033980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.950213 seconds.
+  path: Assets/_Content/Room 2/CBR/Edited - 91526831_532960950695085_89229755960895158_n_1_CBR.mp4
+  artifactKey: Guid(a7501f687fc72490e9d8da241737de8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 2/CBR/Edited - 91526831_532960950695085_89229755960895158_n_1_CBR.mp4 using Guid(a7501f687fc72490e9d8da241737de8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f7cd5bb1717a6200cf60875b0feac7') in 0.017579 seconds 
+  Import took 0.029728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.767163 seconds.
+  path: Assets/_Content/Room 2/CBR/Edited - quarantine_domino_CBR.mp4
+  artifactKey: Guid(f0f56385ed5de4de8875b02846c0c551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 2/CBR/Edited - quarantine_domino_CBR.mp4 using Guid(f0f56385ed5de4de8875b02846c0c551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b0ed37c1953eb229fdfaa68935e426') in 0.008120 seconds 
+  Import took 0.014766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.687749 seconds.
+  path: Assets/_Content/Room 2/CBR/Edited - KacyTron_dead_bat_CBR.mp4
+  artifactKey: Guid(00f44fbf02bae488e9fe5fa6fd3e0b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 2/CBR/Edited - KacyTron_dead_bat_CBR.mp4 using Guid(00f44fbf02bae488e9fe5fa6fd3e0b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd27c727932926146f1ed626458e65f7') in 0.010176 seconds 
+  Import took 0.024253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.632133 seconds.
+  path: Assets/_Content/Room 2/CBR/Edited - LexyPanterra_OF_CBR.mp4
+  artifactKey: Guid(6d8b439ee01de43579681f7f1764f3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 2/CBR/Edited - LexyPanterra_OF_CBR.mp4 using Guid(6d8b439ee01de43579681f7f1764f3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2eded842eef2a2baa3881b37c6e10d') in 0.009986 seconds 
+  Import took 0.017251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.556682 seconds.
+  path: Assets/_Content/Room 2/CBR/Edited - quarantined_CBR.mp4
+  artifactKey: Guid(c529f49739a1b4f1181981b06e91f63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 2/CBR/Edited - quarantined_CBR.mp4 using Guid(c529f49739a1b4f1181981b06e91f63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6d22bc1cbd779dad1178567f942fbe') in 0.009938 seconds 
+  Import took 0.019930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.855649 seconds.
+  path: Assets/_Content/Room 2/CBR/Original - Snaptik_6903102862000131333_flash.mp4
+  artifactKey: Guid(656184de3ffea4d61a5993cce0b90d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 2/CBR/Original - Snaptik_6903102862000131333_flash.mp4 using Guid(656184de3ffea4d61a5993cce0b90d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb194347e1f6f3bfb69a4f571ff15d5') in 0.005877 seconds 
+  Import took 0.013470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 170.829428 seconds.
+  path: Assets/_Animations/Scense/Sceene 2/room point light.anim
+  artifactKey: Guid(97f58d59c10dc46cf8d21107149130c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Animations/Scense/Sceene 2/room point light.anim using Guid(97f58d59c10dc46cf8d21107149130c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdbe76b69a22c08c226f10c4c8a6642f') in 0.115293 seconds 
+  Import took 0.138256 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.036199 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.95 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 1.28 ms.
+2022-02-09 14:29:21.133 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000015e38e0 Quick Recording, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2022-02-09 14:29:21.141 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600001599a40 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.328 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2338ms)
+		BeginReloadAssembly (405ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (36ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (226ms)
+		EndReloadAssembly (1763ms)
+			LoadAssemblies (195ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (639ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (621ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (38ms)
+				SetLoadedEditorAssemblies (25ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (248ms)
+				ProcessInitializeOnLoadAttributes (292ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.33 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 267.7 MB.
+System memory in use after: 267.7 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 3024.
+Total: 4.660105 ms (FindLiveObjects: 0.394199 ms CreateObjectMapping: 0.128463 ms MarkObjects: 3.348795 ms  DeleteObjects: 0.787232 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004127 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.36 ms.
+2022-02-09 14:30:08.018 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000158e990 Quick Recording, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2022-02-09 14:30:08.025 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600001596140 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.439 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1440ms)
+		BeginReloadAssembly (124ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1243ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (389ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (518ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (143ms)
+				ProcessInitializeOnLoadAttributes (350ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 1.33 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 267.9 MB.
+System memory in use after: 267.9 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 3027.
+Total: 4.248295 ms (FindLiveObjects: 0.515940 ms CreateObjectMapping: 0.209870 ms MarkObjects: 3.304442 ms  DeleteObjects: 0.216574 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009302 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.39 ms.
+2022-02-09 14:31:31.811 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000158ce70 Quick Recording, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2022-02-09 14:31:31.815 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000015e3560 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.518 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1519ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (57ms)
+		EndReloadAssembly (1301ms)
+			LoadAssemblies (213ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (437ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (400ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (121ms)
+				ProcessInitializeOnLoadAttributes (257ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.36 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 268.1 MB.
+System memory in use after: 268.1 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 3030.
+Total: 4.270790 ms (FindLiveObjects: 0.291557 ms CreateObjectMapping: 0.110481 ms MarkObjects: 3.678331 ms  DeleteObjects: 0.189452 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011950 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.37 ms.
+2022-02-09 14:32:07.759 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600001586290 Quick Recording, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2022-02-09 14:32:07.763 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000158cf50 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.446 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1447ms)
+		BeginReloadAssembly (127ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (55ms)
+		EndReloadAssembly (1244ms)
+			LoadAssemblies (103ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (452ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (66ms)
+			SetupLoadedEditorAssemblies (428ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (141ms)
+				ProcessInitializeOnLoadAttributes (269ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.38 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.49 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 268.3 MB.
+System memory in use after: 268.3 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 3033.
+Total: 3.340184 ms (FindLiveObjects: 0.277664 ms CreateObjectMapping: 0.094827 ms MarkObjects: 2.789260 ms  DeleteObjects: 0.177580 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.055312 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.39 ms.
+2022-02-09 14:39:26.323 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600001597020 Quick Recording, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2022-02-09 14:39:26.327 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000158afb0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.354 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2356ms)
+		BeginReloadAssembly (619ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (17ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (140ms)
+		EndReloadAssembly (1578ms)
+			LoadAssemblies (350ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (448ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (434ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (289ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.42 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 268.5 MB.
+System memory in use after: 268.5 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 3036.
+Total: 3.797522 ms (FindLiveObjects: 0.413830 ms CreateObjectMapping: 0.147669 ms MarkObjects: 3.035145 ms  DeleteObjects: 0.200161 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 700.637760 seconds.
+  path: Assets/_Objects/obj/Train/texture.jpg
+  artifactKey: Guid(c06f0a3cb9fe1480e9293e849ef51065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/obj/Train/texture.jpg using Guid(c06f0a3cb9fe1480e9293e849ef51065) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '2d9bc78af8df62a0e201f92df6673126') in 1.800661 seconds 
+  Import took 1.812902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 314.545486 seconds.
+  path: Assets/_Content/Room 3/CBR/Edited - Don't get vaccinated_1_CBR.mp4
+  artifactKey: Guid(32d7d000f87f246f98a23b3fab8cff79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/CBR/Edited - Don't get vaccinated_1_CBR.mp4 using Guid(32d7d000f87f246f98a23b3fab8cff79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f671813ad6adb8c87479364832a9075') in 0.096744 seconds 
+  Import took 0.271868 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.039526 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.40 ms.
+2022-02-09 14:44:57.613 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600001584000 Quick Recording, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2022-02-09 14:44:57.618 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600001594770 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.183 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2185ms)
+		BeginReloadAssembly (241ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (137ms)
+		EndReloadAssembly (1865ms)
+			LoadAssemblies (493ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (547ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (99ms)
+			SetupLoadedEditorAssemblies (481ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (144ms)
+				ProcessInitializeOnLoadAttributes (305ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.33 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 268.7 MB.
+System memory in use after: 268.6 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 3039.
+Total: 4.268101 ms (FindLiveObjects: 0.526151 ms CreateObjectMapping: 0.140522 ms MarkObjects: 3.368811 ms  DeleteObjects: 0.230054 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.42 ms.
+2022-02-09 14:50:45.889 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000015e23e0 Quick Recording, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2022-02-09 14:50:45.898 Unity[53514:2574429] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000015aebc0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.652 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1652ms)
+		BeginReloadAssembly (197ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (72ms)
+		EndReloadAssembly (1303ms)
+			LoadAssemblies (136ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (488ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (480ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (149ms)
+				ProcessInitializeOnLoadAttributes (313ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.36 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 268.8 MB.
+System memory in use after: 268.8 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 3042.
+Total: 3.548156 ms (FindLiveObjects: 0.300707 ms CreateObjectMapping: 0.097876 ms MarkObjects: 2.961566 ms  DeleteObjects: 0.186915 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
