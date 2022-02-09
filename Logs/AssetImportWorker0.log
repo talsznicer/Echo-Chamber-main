@@ -1546,3 +1546,112 @@ Received Import Request.
 Start importing Assets/_Fonts/BASKERVILLE-SEMIBOLD SDF.asset using Guid(e72fc2520a69342688dd98d7cb0747e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd9ea562ae26cb6b490af1b8e6b1f394') in 0.065740 seconds 
   Import took 0.072138 seconds .
 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 163.37 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.70 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 236.0 MB.
+System memory in use after: 236.2 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2909.
+Total: 28.381450 ms (FindLiveObjects: 0.369812 ms CreateObjectMapping: 0.105800 ms MarkObjects: 27.758981 ms  DeleteObjects: 0.145658 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 27.74 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.37 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 236.0 MB.
+System memory in use after: 236.2 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2909.
+Total: 24.576787 ms (FindLiveObjects: 0.867836 ms CreateObjectMapping: 0.110581 ms MarkObjects: 23.419054 ms  DeleteObjects: 0.178550 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5639.736225 seconds.
+  path: Assets/_Fonts/Maragsâ-Display SDF.asset
+  artifactKey: Guid(da6a99693e7714a208865cdb97efa55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fonts/Maragsâ-Display SDF.asset using Guid(da6a99693e7714a208865cdb97efa55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15cbed50e651590c1bc7a110a02acf0') in 0.215537 seconds 
+  Import took 0.289604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4623.909129 seconds.
+  path: Assets/_Scenes/PLY Train.controller
+  artifactKey: Guid(9dfe631b9d80147218261688eeb137c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/PLY Train.controller using Guid(9dfe631b9d80147218261688eeb137c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e46ebbd2940229a541e55ccdc96728') in 0.568384 seconds 
+  Import took 0.617297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197785 seconds.
+  path: Assets/_Scenes/PLY Daniels room.controller
+  artifactKey: Guid(88394acbce20146d290b92beb4ae79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/PLY Daniels room.controller using Guid(88394acbce20146d290b92beb4ae79df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d309e083d252f644d8e882cb6a2808') in 0.009082 seconds 
+  Import took 0.019582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.011047 seconds.
+  path: Assets/_Scenes/ply daniels room.anim
+  artifactKey: Guid(9c0439d7134b74112bdef00c2c2d5fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/ply daniels room.anim using Guid(9c0439d7134b74112bdef00c2c2d5fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '655549626530471d95c42ee284a2c59e') in 0.014662 seconds 
+  Import took 0.025945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 399.780451 seconds.
+  path: Assets/_Objects/ply/_Professor Binary.ply
+  artifactKey: Guid(5cb78b4c7a106465f98ce1c76feb1f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/ply/_Professor Binary.ply using Guid(5cb78b4c7a106465f98ce1c76feb1f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: '4be723d17c1194af49340ee13de2765a') in 3.663474 seconds 
+  Import took 3.691582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.019680 seconds.
+  path: Assets/_Objects/ply/_Daniels Room Binary - Cloud mini.ply
+  artifactKey: Guid(9fef1e8e28470413c957a7029d09e3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/ply/_Daniels Room Binary - Cloud mini.ply using Guid(9fef1e8e28470413c957a7029d09e3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: 'ed6c80bd3203f01f3c7c53cee20be552') in 0.078230 seconds 
+  Import took 0.083839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6151.226879 seconds.
+  path: Assets/_Objects/ply/_Kitchen Binary - Cloud Mini.ply
+  artifactKey: Guid(9969a33cc9ebf490a9d59c421a93f6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Objects/ply/_Kitchen Binary - Cloud Mini.ply using Guid(9969a33cc9ebf490a9d59c421a93f6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+ -> (artifact id: 'd924d95cdf5adc6b58cc377296d73056') in 0.363304 seconds 
+  Import took 0.503814 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
