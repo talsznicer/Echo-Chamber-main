@@ -585,3 +585,97 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1619.382346 seconds.
+  path: Assets/_Content/Room 3
+  artifactKey: Guid(b681b2d21a4b74ee9ba5e0da7f030fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3 using Guid(b681b2d21a4b74ee9ba5e0da7f030fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eb338a6f24aa1a79dcbbd0d19c879d2') in 0.028717 seconds 
+  Import took 0.201618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.537067 seconds.
+  path: Assets/_Content/Room 3/Edited - 11th Hour Dispatch.mp4
+  artifactKey: Guid(3ab7a5a053af9419eb60e4ea16be2b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - 11th Hour Dispatch.mp4 using Guid(3ab7a5a053af9419eb60e4ea16be2b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eecd71070bcf044d500e9681a7f6d6a') in 0.928967 seconds 
+  Import took 0.940150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.376157 seconds.
+  path: Assets/_Content/Room 3/Edited - Racist.mp4
+  artifactKey: Guid(9841a1382fef64dc6beb138700055da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - Racist.mp4 using Guid(9841a1382fef64dc6beb138700055da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6adf9c54f0a71a6d2cf87bae20d601a9') in 0.005363 seconds 
+  Import took 0.022850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.373702 seconds.
+  path: Assets/_Content/Room 3/Edited - 25%Off_Sale.mp4
+  artifactKey: Guid(3c6ef598716cd4e16bdbebb362c6e7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - 25%Off_Sale.mp4 using Guid(3c6ef598716cd4e16bdbebb362c6e7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3127a50a91d199236bcdfdc8ef0f6256') in 0.031148 seconds 
+  Import took 0.053050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000619 seconds.
+  path: Assets/_Content/Room 3/Edited - Intollerance_Towards_the_unvacced.mp4
+  artifactKey: Guid(ec556f7dd03b64eaf812757c3d37535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - Intollerance_Towards_the_unvacced.mp4 using Guid(ec556f7dd03b64eaf812757c3d37535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32e3d84144e95b10ea8b55d50bed296') in 0.014450 seconds 
+  Import took 0.022387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/_Content/Room 3/Edited - MAGA_Mask_Liberals_R_Better_Than_U.mp4
+  artifactKey: Guid(9fbda43eadfb74d9a8823161f0f8f19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - MAGA_Mask_Liberals_R_Better_Than_U.mp4 using Guid(9fbda43eadfb74d9a8823161f0f8f19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab96e8629296741a07676bf0f5e3a88') in 0.005173 seconds 
+  Import took 0.012539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/_Content/Room 3/Edited - Mass Information Psychosis.mp4
+  artifactKey: Guid(dac997815a04249e4a41c977b6f3759e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - Mass Information Psychosis.mp4 using Guid(dac997815a04249e4a41c977b6f3759e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7f8db2ac614c3bdf537fd974714a8b') in 0.006092 seconds 
+  Import took 0.012785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/_Content/Room 3/Edited - Don't get vaccinated.mp4
+  artifactKey: Guid(19d2422e8ef6a4786b5e4931bdbfe4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/Edited - Don't get vaccinated.mp4 using Guid(19d2422e8ef6a4786b5e4931bdbfe4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '548f268bcae88a90af232673addf88b0') in 0.007042 seconds 
+  Import took 0.017893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 592.052414 seconds.
+  path: Assets/_Content/Room 3/CBR
+  artifactKey: Guid(206cf18375f2a4d03ba6e6aa9d6d121b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Content/Room 3/CBR using Guid(206cf18375f2a4d03ba6e6aa9d6d121b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '939913db8c0d7885d96c45bd8d6df83a') in 0.024487 seconds 
+  Import took 0.128330 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 34.80 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.53 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.5 MB.
+System memory in use after: 195.7 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2836.
+Total: 59.587044 ms (FindLiveObjects: 0.382875 ms CreateObjectMapping: 0.110481 ms MarkObjects: 58.731493 ms  DeleteObjects: 0.360965 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
